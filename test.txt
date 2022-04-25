@@ -1,0 +1,6 @@
+04/26/2022 12:00	DEBUG	debug message
+04/26/2022 12:10	INFO	lior is the king
+04/25/2022 12:10	INFO	log from yesterday 
+04/26/2022 12:20	ERROR	cannot divide by zero
+04/26/2022 12:20	ERROR	another error
+04/25/2022 12:20	ERROR	error from yesterday 
